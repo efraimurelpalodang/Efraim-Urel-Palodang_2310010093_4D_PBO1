@@ -96,7 +96,7 @@ public void setNomor(String nomor) {
     this.nomor = nomor;
 }
 
-public void setJamMulai(String npm) {
+public void setJamMulai(String jamMulai) {
     this.jamMulai = jamMulai;
 }
 ```
