@@ -6,7 +6,7 @@ Proyek ini adalah contoh sederhana aplikasi pemesanan / penyewaan lapangan futsa
 
 Aplikasi ini menerima input berupa nama pelanggan, nomor Hp pelanggan, durasi (jam), dan jam mulai sewa dan memberikan output berupa ringkasan pemesanan seperti pemesan, lapangan, durasi, jam sewa, dan total bayar.
 
-Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
+Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
 
 ## Penjelasan Kode
 
